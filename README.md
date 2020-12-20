@@ -1,5 +1,5 @@
 <table >
-<th>NotesApp-JS</th>
+<th>Notes App</th>
 <tr>
 <td>Notes App which works with markdown syntax built in JavaScript.</td>
 </tr>
