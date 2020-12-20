@@ -5,6 +5,8 @@
 </tr>
 </table>
 
+To watch live preview [click here](https://notes-app-js-8080.netlify.app)
+
 ## Home Page
 
 <img src="https://github.com/emahmi/NotesApp-JS/blob/master/images/img-1.png">
